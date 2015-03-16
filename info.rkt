@@ -5,6 +5,6 @@
 
 (define pkg-desc "An assortment of images")
 
-(define pkg-authors '(ntoronto))
+(define pkg-authors '(ntoronto robby))
 
 (define version "1.1")
